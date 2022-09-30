@@ -1,0 +1,1 @@
+es un movimiento de cambio de orientación a través del cual un objeto o cuerpo da un giro completo mientras que, cualquiera de sus puntos permanece a la misma distancia del eje de rotación y, al culminar el giro vuelve a su posición inicial pudiendo repetirse varias veces.
